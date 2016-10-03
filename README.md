@@ -9,6 +9,6 @@ smudap [at] student.mini.pw.edu.pl
 Proszę w tematach wiadomości dodawać przedrostek [AiPP], np. "[AiPP] Pytanie".
 
 ## Oprogramowanie
-Visual Studio 2015 Community
+Visual Studio 2015 Community  
 Można pobrać np. z Microsoft Imagine udostępnionego dla studentów wydziału MiNI.  
 Więcej szczegółów na: https://ww2.mini.pw.edu.pl/laboratorium/oprogramowanie/
